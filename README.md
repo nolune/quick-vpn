@@ -5,12 +5,12 @@ Manage VPN subscriptions from GNOME quick settings panel.
 ## Features
 
 - Add VPN subscriptions via URL (supports Clash/mihomo format)
+- Supports **FlClashX** (`flclashx://install-config?url=...`) and **HAPP** (`happ://add/...`) links
 - Browse and switch between proxy nodes
 - Ping test for all nodes
 - Auto-enables system proxy (HTTP/SOCKS) on connect
 - Restores original proxy settings on disconnect
 - Traffic usage and expiration info
-- Supports subscription links from FlClashX, HAPP, and direct URLs
 
 ## Requirements
 
